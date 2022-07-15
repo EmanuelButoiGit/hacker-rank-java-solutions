@@ -8,6 +8,20 @@ import static java.lang.System.in;
 
 class Prime{
     
+    public boolean isPrime(int n){
+        if(n == 0 || n == 1){  
+            return false;      
+        }else{
+            for(int i = 2; i <= n / 2; i++){
+                if(n % i == 0){
+                    return false;
+                }
+            }
+        } 
+        
+        return true;
+    }
+    
     public void checkPrime(int... numbers){
         for (int number : numbers) {
             if (BigInteger.valueOf(number).isProbablePrime(100)) {
