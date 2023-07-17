@@ -1,6 +1,6 @@
 # 🏆 HackerRank Java Solutions
 
-![GitHub](https://img.shields.io/github/license/yourusername/hacker-rank-java-solutions)
+![GitHub](https://img.shields.io/github/license/EmanuelButoiGit/hacker-rank-java-solutions)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Progress](https://img.shields.io/badge/Progress-50%2F64-brightgreen)
 
