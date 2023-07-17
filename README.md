@@ -1,7 +1,7 @@
 # 🏆 HackerRank Java Solutions
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/github/license/EmanuelButoiGit/hacker-rank-java-solutions)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Progress](https://img.shields.io/badge/Progress-50%2F64-brightgreen)
 
 This repository houses solutions to 50 out of 64 coding challenges from [HackerRank](https://www.hackerrank.com/), all implemented in Java. It also includes a solution to a certification problem.
