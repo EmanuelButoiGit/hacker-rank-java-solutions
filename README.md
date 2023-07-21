@@ -21,7 +21,7 @@ This repository houses solutions to 50 out of 64 coding challenges from [HackerR
 
 The challenges are divided into several domains, and each domain includes a multitude of problems that you can solve using Java.
 
-## 🚀 Java
+## ☕ Java
 
 Here, you will find the solutions to the Java subsection, which encompasses problems related to Java programming concepts such as loops, data types, strings, etc.
 
